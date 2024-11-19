@@ -1,0 +1,14 @@
+D:\КПиЯП\Лаб 1\bin\Debug\net8.0\Лаб 1.exe
+D:\КПиЯП\Лаб 1\bin\Debug\net8.0\Лаб 1.deps.json
+D:\КПиЯП\Лаб 1\bin\Debug\net8.0\Лаб 1.runtimeconfig.json
+D:\КПиЯП\Лаб 1\bin\Debug\net8.0\Лаб 1.dll
+D:\КПиЯП\Лаб 1\bin\Debug\net8.0\Лаб 1.pdb
+D:\КПиЯП\Лаб 1\obj\Debug\net8.0\Лаб 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПиЯП\Лаб 1\obj\Debug\net8.0\Лаб 1.AssemblyInfoInputs.cache
+D:\КПиЯП\Лаб 1\obj\Debug\net8.0\Лаб 1.AssemblyInfo.cs
+D:\КПиЯП\Лаб 1\obj\Debug\net8.0\Лаб 1.csproj.CoreCompileInputs.cache
+D:\КПиЯП\Лаб 1\obj\Debug\net8.0\Лаб 1.dll
+D:\КПиЯП\Лаб 1\obj\Debug\net8.0\refint\Лаб 1.dll
+D:\КПиЯП\Лаб 1\obj\Debug\net8.0\Лаб 1.pdb
+D:\КПиЯП\Лаб 1\obj\Debug\net8.0\Лаб 1.genruntimeconfig.cache
+D:\КПиЯП\Лаб 1\obj\Debug\net8.0\ref\Лаб 1.dll

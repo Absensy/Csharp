@@ -1,0 +1,28 @@
+D:\КПиЯП\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.exe
+D:\КПиЯП\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.deps.json
+D:\КПиЯП\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.runtimeconfig.json
+D:\КПиЯП\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.dll
+D:\КПиЯП\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.pdb
+D:\КПиЯП\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПиЯП\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.AssemblyInfoInputs.cache
+D:\КПиЯП\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.AssemblyInfo.cs
+D:\КПиЯП\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.csproj.CoreCompileInputs.cache
+D:\КПиЯП\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.dll
+D:\КПиЯП\Задание 2\Задание 2\obj\Debug\net8.0\refint\Задание 2.dll
+D:\КПиЯП\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.pdb
+D:\КПиЯП\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.genruntimeconfig.cache
+D:\КПиЯП\Задание 2\Задание 2\obj\Debug\net8.0\ref\Задание 2.dll
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.exe
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.deps.json
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.runtimeconfig.json
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.dll
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\bin\Debug\net8.0\Задание 2.pdb
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.AssemblyInfoInputs.cache
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.AssemblyInfo.cs
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.csproj.CoreCompileInputs.cache
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.dll
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\obj\Debug\net8.0\refint\Задание 2.dll
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.pdb
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\obj\Debug\net8.0\Задание 2.genruntimeconfig.cache
+D:\КПиЯП\Лр 1\Задание 2\Задание 2\obj\Debug\net8.0\ref\Задание 2.dll
